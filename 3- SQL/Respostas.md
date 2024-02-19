@@ -1,4 +1,6 @@
-#  Soluções para as perguntas relacionadas a SQL. É fundamental iniciar a preparação do ambiente, considerando que este ambiente já esteja configurado. Abaixo, encontram-se as respostas após a tabela inicial.
+#  🛠️ Soluções para as perguntas relacionadas a SQL. É fundamental iniciar a preparação do ambiente, considerando que este ambiente já esteja configurado. Abaixo, encontram-se as respostas após a tabela inicial.
+
+### Tabela usada como base no teste.
 
 ```shell
 +----+--------------+
