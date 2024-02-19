@@ -275,7 +275,7 @@ public class MenuGerenciamento
 
         if (key.Key == ConsoleKey.Escape)
         {
-            return string.Empty; // Retorna string vazia para indicar cancelamento
+            return string.Empty; 
         }
 
         return input.ToString();

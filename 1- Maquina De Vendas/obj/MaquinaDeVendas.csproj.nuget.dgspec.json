@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\Desktop\\Luby Software\\MaquinaDeVendas\\MaquinaDeVendas.csproj": {}
+    "C:\\Users\\Victor\\Desktop\\Luby Software\\1- Maquina De Vendas\\MaquinaDeVendas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\Desktop\\Luby Software\\MaquinaDeVendas\\MaquinaDeVendas.csproj": {
+    "C:\\Users\\Victor\\Desktop\\Luby Software\\1- Maquina De Vendas\\MaquinaDeVendas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\Luby Software\\MaquinaDeVendas\\MaquinaDeVendas.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\Luby Software\\1- Maquina De Vendas\\MaquinaDeVendas.csproj",
         "projectName": "MaquinaDeVendas",
-        "projectPath": "C:\\Users\\Victor\\Desktop\\Luby Software\\MaquinaDeVendas\\MaquinaDeVendas.csproj",
+        "projectPath": "C:\\Users\\Victor\\Desktop\\Luby Software\\1- Maquina De Vendas\\MaquinaDeVendas.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Desktop\\Luby Software\\MaquinaDeVendas\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Desktop\\Luby Software\\1- Maquina De Vendas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
