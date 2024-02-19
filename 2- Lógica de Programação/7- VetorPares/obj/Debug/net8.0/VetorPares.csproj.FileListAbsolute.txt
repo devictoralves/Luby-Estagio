@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Luby Software\VetorPares\bin\Debug\net8.0\VetorPares.exe
+C:\Users\Victor\Desktop\Luby Software\VetorPares\bin\Debug\net8.0\VetorPares.deps.json
+C:\Users\Victor\Desktop\Luby Software\VetorPares\bin\Debug\net8.0\VetorPares.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\VetorPares\bin\Debug\net8.0\VetorPares.dll
+C:\Users\Victor\Desktop\Luby Software\VetorPares\bin\Debug\net8.0\VetorPares.pdb
+C:\Users\Victor\Desktop\Luby Software\VetorPares\obj\Debug\net8.0\VetorPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\VetorPares\obj\Debug\net8.0\VetorPares.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\VetorPares\obj\Debug\net8.0\VetorPares.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\VetorPares\obj\Debug\net8.0\VetorPares.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\VetorPares\obj\Debug\net8.0\VetorPares.dll
+C:\Users\Victor\Desktop\Luby Software\VetorPares\obj\Debug\net8.0\refint\VetorPares.dll
+C:\Users\Victor\Desktop\Luby Software\VetorPares\obj\Debug\net8.0\VetorPares.pdb
+C:\Users\Victor\Desktop\Luby Software\VetorPares\obj\Debug\net8.0\VetorPares.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\VetorPares\obj\Debug\net8.0\ref\VetorPares.dll

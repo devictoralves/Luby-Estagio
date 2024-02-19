@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\bin\Debug\net8.0\CalcularDesconto.exe
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\bin\Debug\net8.0\CalcularDesconto.deps.json
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\bin\Debug\net8.0\CalcularDesconto.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\bin\Debug\net8.0\CalcularDesconto.dll
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\bin\Debug\net8.0\CalcularDesconto.pdb
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\obj\Debug\net8.0\CalcularDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\obj\Debug\net8.0\CalcularDesconto.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\obj\Debug\net8.0\CalcularDesconto.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\obj\Debug\net8.0\CalcularDesconto.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\obj\Debug\net8.0\CalcularDesconto.dll
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\obj\Debug\net8.0\refint\CalcularDesconto.dll
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\obj\Debug\net8.0\CalcularDesconto.pdb
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\obj\Debug\net8.0\CalcularDesconto.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\CalcularDesconto\obj\Debug\net8.0\ref\CalcularDesconto.dll

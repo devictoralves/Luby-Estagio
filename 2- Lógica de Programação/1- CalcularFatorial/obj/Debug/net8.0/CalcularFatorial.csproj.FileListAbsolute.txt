@@ -1,0 +1,28 @@
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.exe
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.deps.json
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.dll
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.pdb
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.dll
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\obj\Debug\net8.0\refint\CalcularFatorial.dll
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.pdb
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\CalcularFatorial\obj\Debug\net8.0\ref\CalcularFatorial.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.exe
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.deps.json
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.pdb
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\obj\Debug\net8.0\refint\CalcularFatorial.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.pdb
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\1- CalcularFatorial\obj\Debug\net8.0\ref\CalcularFatorial.dll

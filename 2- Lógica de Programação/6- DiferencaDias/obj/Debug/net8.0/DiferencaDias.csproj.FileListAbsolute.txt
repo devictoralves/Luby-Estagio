@@ -1,0 +1,28 @@
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\bin\Debug\net8.0\DiferencaDias.exe
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\bin\Debug\net8.0\DiferencaDias.deps.json
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\bin\Debug\net8.0\DiferencaDias.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\bin\Debug\net8.0\DiferencaDias.dll
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\bin\Debug\net8.0\DiferencaDias.pdb
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\obj\Debug\net8.0\DiferencaDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\obj\Debug\net8.0\DiferencaDias.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\obj\Debug\net8.0\DiferencaDias.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\obj\Debug\net8.0\DiferencaDias.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\obj\Debug\net8.0\DiferencaDias.dll
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\obj\Debug\net8.0\refint\DiferencaDias.dll
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\obj\Debug\net8.0\DiferencaDias.pdb
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\obj\Debug\net8.0\DiferencaDias.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\DiferencaDias\obj\Debug\net8.0\ref\DiferencaDias.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\bin\Debug\net8.0\DiferencaDias.exe
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\bin\Debug\net8.0\DiferencaDias.deps.json
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\bin\Debug\net8.0\DiferencaDias.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\bin\Debug\net8.0\DiferencaDias.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\bin\Debug\net8.0\DiferencaDias.pdb
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\obj\Debug\net8.0\DiferencaDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\obj\Debug\net8.0\DiferencaDias.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\obj\Debug\net8.0\DiferencaDias.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\obj\Debug\net8.0\DiferencaDias.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\obj\Debug\net8.0\DiferencaDias.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\obj\Debug\net8.0\refint\DiferencaDias.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\obj\Debug\net8.0\DiferencaDias.pdb
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\obj\Debug\net8.0\DiferencaDias.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\6- DiferencaDias\obj\Debug\net8.0\ref\DiferencaDias.dll

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\bin\Debug\net8.0\MaquinaDeVendas.exe
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\bin\Debug\net8.0\MaquinaDeVendas.deps.json
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\bin\Debug\net8.0\MaquinaDeVendas.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\bin\Debug\net8.0\MaquinaDeVendas.dll
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\bin\Debug\net8.0\MaquinaDeVendas.pdb
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\obj\Debug\net8.0\MaquinaDeVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\obj\Debug\net8.0\MaquinaDeVendas.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\obj\Debug\net8.0\MaquinaDeVendas.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\obj\Debug\net8.0\MaquinaDeVendas.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\obj\Debug\net8.0\MaquinaDeVendas.dll
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\obj\Debug\net8.0\refint\MaquinaDeVendas.dll
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\obj\Debug\net8.0\MaquinaDeVendas.pdb
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\obj\Debug\net8.0\MaquinaDeVendas.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\MaquinaDeVendas\obj\Debug\net8.0\ref\MaquinaDeVendas.dll

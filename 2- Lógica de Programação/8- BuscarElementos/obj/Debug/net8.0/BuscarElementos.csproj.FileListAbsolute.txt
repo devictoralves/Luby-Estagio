@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\bin\Debug\net8.0\BuscarElementos.exe
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\bin\Debug\net8.0\BuscarElementos.deps.json
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\bin\Debug\net8.0\BuscarElementos.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\bin\Debug\net8.0\BuscarElementos.dll
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\bin\Debug\net8.0\BuscarElementos.pdb
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\obj\Debug\net8.0\BuscarElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\obj\Debug\net8.0\BuscarElementos.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\obj\Debug\net8.0\BuscarElementos.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\obj\Debug\net8.0\BuscarElementos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\obj\Debug\net8.0\BuscarElementos.dll
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\obj\Debug\net8.0\refint\BuscarElementos.dll
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\obj\Debug\net8.0\BuscarElementos.pdb
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\obj\Debug\net8.0\BuscarElementos.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\BuscarElementos\obj\Debug\net8.0\ref\BuscarElementos.dll

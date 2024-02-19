@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\bin\Debug\net8.0\DoisElementos.exe
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\bin\Debug\net8.0\DoisElementos.deps.json
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\bin\Debug\net8.0\DoisElementos.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\bin\Debug\net8.0\DoisElementos.dll
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\bin\Debug\net8.0\DoisElementos.pdb
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\obj\Debug\net8.0\DoisElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\obj\Debug\net8.0\DoisElementos.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\obj\Debug\net8.0\DoisElementos.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\obj\Debug\net8.0\DoisElementos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\obj\Debug\net8.0\DoisElementos.dll
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\obj\Debug\net8.0\refint\DoisElementos.dll
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\obj\Debug\net8.0\DoisElementos.pdb
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\obj\Debug\net8.0\DoisElementos.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\DoisElementos\obj\Debug\net8.0\ref\DoisElementos.dll

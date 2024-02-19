@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\bin\Debug\net8.0\CalculadoraVogais.exe
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\bin\Debug\net8.0\CalculadoraVogais.deps.json
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\bin\Debug\net8.0\CalculadoraVogais.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\bin\Debug\net8.0\CalculadoraVogais.dll
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\bin\Debug\net8.0\CalculadoraVogais.pdb
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\obj\Debug\net8.0\CalculadoraVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\obj\Debug\net8.0\CalculadoraVogais.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\obj\Debug\net8.0\CalculadoraVogais.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\obj\Debug\net8.0\CalculadoraVogais.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\obj\Debug\net8.0\CalculadoraVogais.dll
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\obj\Debug\net8.0\refint\CalculadoraVogais.dll
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\obj\Debug\net8.0\CalculadoraVogais.pdb
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\obj\Debug\net8.0\CalculadoraVogais.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\CalculadoraVogais\obj\Debug\net8.0\ref\CalculadoraVogais.dll

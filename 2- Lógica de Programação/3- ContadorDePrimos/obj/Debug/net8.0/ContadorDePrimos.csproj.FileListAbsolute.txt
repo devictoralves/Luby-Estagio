@@ -1,0 +1,28 @@
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\bin\Debug\net8.0\ContadorDePrimos.exe
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\bin\Debug\net8.0\ContadorDePrimos.deps.json
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\bin\Debug\net8.0\ContadorDePrimos.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\bin\Debug\net8.0\ContadorDePrimos.dll
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\bin\Debug\net8.0\ContadorDePrimos.pdb
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.dll
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\obj\Debug\net8.0\refint\ContadorDePrimos.dll
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.pdb
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\ContadorDePrimos\obj\Debug\net8.0\ref\ContadorDePrimos.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\bin\Debug\net8.0\ContadorDePrimos.exe
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\bin\Debug\net8.0\ContadorDePrimos.deps.json
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\bin\Debug\net8.0\ContadorDePrimos.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\bin\Debug\net8.0\ContadorDePrimos.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\bin\Debug\net8.0\ContadorDePrimos.pdb
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\obj\Debug\net8.0\refint\ContadorDePrimos.dll
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.pdb
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\obj\Debug\net8.0\ContadorDePrimos.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\2- Lógica de Programação\3- ContadorDePrimos\obj\Debug\net8.0\ref\ContadorDePrimos.dll

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\bin\Debug\net8.0\CompararVetores.exe
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\bin\Debug\net8.0\CompararVetores.deps.json
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\bin\Debug\net8.0\CompararVetores.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\bin\Debug\net8.0\CompararVetores.dll
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\bin\Debug\net8.0\CompararVetores.pdb
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\obj\Debug\net8.0\CompararVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\obj\Debug\net8.0\CompararVetores.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\obj\Debug\net8.0\CompararVetores.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\obj\Debug\net8.0\CompararVetores.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\obj\Debug\net8.0\CompararVetores.dll
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\obj\Debug\net8.0\refint\CompararVetores.dll
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\obj\Debug\net8.0\CompararVetores.pdb
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\obj\Debug\net8.0\CompararVetores.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\CompararVetores\obj\Debug\net8.0\ref\CompararVetores.dll

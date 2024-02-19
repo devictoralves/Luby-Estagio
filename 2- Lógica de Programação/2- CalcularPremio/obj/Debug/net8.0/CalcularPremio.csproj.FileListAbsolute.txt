@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\bin\Debug\net8.0\CalcularPremio.exe
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\bin\Debug\net8.0\CalcularPremio.deps.json
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\bin\Debug\net8.0\CalcularPremio.runtimeconfig.json
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\bin\Debug\net8.0\CalcularPremio.dll
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\bin\Debug\net8.0\CalcularPremio.pdb
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\obj\Debug\net8.0\CalcularPremio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\obj\Debug\net8.0\CalcularPremio.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\obj\Debug\net8.0\CalcularPremio.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\obj\Debug\net8.0\CalcularPremio.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\obj\Debug\net8.0\CalcularPremio.dll
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\obj\Debug\net8.0\refint\CalcularPremio.dll
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\obj\Debug\net8.0\CalcularPremio.pdb
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\obj\Debug\net8.0\CalcularPremio.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Luby Software\CalcularPremio\obj\Debug\net8.0\ref\CalcularPremio.dll
