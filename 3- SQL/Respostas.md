@@ -1,4 +1,4 @@
-#  Respostas para as questões de SQL. É importante preparar inicialmente o ambiente, partindo do pressuposto que este ambiente já esteja pronto, abaixo estão as respostas pós a tabela base. 
+#  Soluções para as perguntas relacionadas a SQL. É fundamental iniciar a preparação do ambiente, considerando que este ambiente já esteja configurado. Abaixo, encontram-se as respostas após a tabela inicial.
 
 ```shell
 +----+--------------+
