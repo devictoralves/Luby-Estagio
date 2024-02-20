@@ -1,6 +1,7 @@
 # Lógica de Programação!
 
-As questões de Lógica de Programação foram respondidas utilizando a linguagem de programação C#, conforme solicitado inicialmente. Os projetos estão disponíveis de forma integral, para facilitar a execução e avaliação. Todas as questões foram respondidas de forma a respeitar os conceitos básicos da Programação Orientada a Objetos. 
+### ✅ As questões de Lógica de Programação foram respondidas utilizando C#, conforme solicitado inicialmente. No README de cada uma das questões destaquei uma pequena explicação do que foi feito. Os projetos estão disponíveis de forma integral, para facilitar a execução e avaliação. Todas as questões foram respondidas de forma a respeitar os conceitos básicos da Programação Orientada a Objetos. 
+-------
 
 ### 1- Implemente a função abaixo para calcular fatorial de um número.
     ```csharp
