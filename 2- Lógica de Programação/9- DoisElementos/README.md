@@ -1,7 +1,6 @@
-### 9️⃣ - Implemente a função abaixo que retorna um novo vetor com todos elementos pares do vetor informado.
+### 9️⃣ - Implemente a função abaixo que obtém uma string com números separados por vírgula e transforma em um array de array de inteiros com no máximo dois elementos.
     ```csharp
-    int[] vetor = new int[] { 1,2,3,4,5 };
-    ObterElementosPares(vetor) == new int { 2, 4 }; //true 
+    TransformarEmMatriz("1,2,3,4,5,6") == new int[][] { new int[] { 1, 2 }, new int[] { 3, 4 }, new int[] { 5, 6 } }; //true 
     ```
 -----
 
